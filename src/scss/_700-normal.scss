@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'Baron Neue';
+  src: local('Baron Neue Bold'), local('BaronNeue-Bold'),
+  url('../../fonts/baron-neue-700-normal.woff2') format('woff2'),
+  url('../../fonts/baron-neue-700-normal.woff') format('woff'),
+  url('../../fonts/baron-neue-700-normal.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
